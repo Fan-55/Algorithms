@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="badcfcf8-d8ce-4c0f-97d1-20e26ba6dfbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/WeightedQuickUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,11 +41,10 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThreeSum" />
       <module name="DSA" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/input/largeUF.txt" />
+      <option name="PROGRAM_PARAMETERS" value="1000" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
