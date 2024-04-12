@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="badcfcf8-d8ce-4c0f-97d1-20e26ba6dfbd" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayStack.java" afterDir="false" />
     </list>
@@ -42,8 +43,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="ThreeSum" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreeSum" />
+    <configuration name="Queue" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
