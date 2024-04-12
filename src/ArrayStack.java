@@ -1,6 +1,6 @@
 import java.util.Iterator;
 
-public class Stack<Item> implements Iterable<Item>{
+public class ArrayStack<Item> implements Iterable<Item>{
   private Item[] items = (Item[]) new Object[1];
 
   private int size = 0;
